@@ -1,12 +1,10 @@
-# Traffic Accidents in New York City - A Linear Regression Study
-Springboard Capstone Project 1
+# Modeling the Risk of Traffic Accidents in New York City
+Springboard Capstone Project 2
 
-The final writeup can be found [Here](https://github.com/ghopping/Springboard_Capstone_1/blob/master/Capstone%201%20Final%20Report.pdf) <br />
+The final writeup can be found [Here](https://github.com/ghopping/Springboard_Capstone_2/blob/master/Capstone%202%20Final%20Report.pdf) <br />
 
-A link to a blogpost can be found [Here](https://medium.com/@gene.hopping/traffic-accidents-in-new-york-city-a-linear-regression-study-3af7159ef088?source=friends_link&sk=713bae2596f19f5b77e943e1ab5addd5)
+A link to a blogpost can be found [Here](https://towardsdatascience.com/modeling-the-risk-of-traffic-accidents-in-new-york-city-9292c5ae4ab4)
 
-The Jupyter notebook containing processing of the accident data is [Here](https://github.com/ghopping/Springboard_Capstone_1/blob/master/GH_Capstone_1_accident.ipynb)
+The Jupyter notebook containing processing of the accident data is [Here](https://github.com/ghopping/Springboard_Capstone_2/blob/master/GH_Capstone_2_accident.ipynb)
 
-The Jupyter notebook containing processiong of the traffic volume data is [Here](https://github.com/ghopping/Springboard_Capstone_1/blob/master/GH_Capstone_1_volume.ipynb)
-
-The Jupyter notebook containing the regression analyses is [Here](https://github.com/ghopping/Springboard_Capstone_1/blob/master/GH_Capstone_1_regression.ipynb)
+The Jupyter notebook containing the convLSTM2D model is [Here](https://github.com/ghopping/Springboard_Capstone_2/blob/master/convLSTM2D/GH_Capstone_2_convLSTM2D_model.ipynb)
